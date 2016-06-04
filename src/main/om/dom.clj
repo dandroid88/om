@@ -39,6 +39,7 @@
     fieldset
     figcaption
     figure
+    filter
     footer
     form
     h1
